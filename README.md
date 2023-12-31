@@ -1,5 +1,7 @@
 # Rust Latam: procedural macros workshop
 
+- This is me working through dtolney's procedural macro workshop along with Jon Hoo's excellent videos
+
 *This repo contains a selection of projects designed to learn to write Rust
 procedural macros &mdash; Rust code that generates Rust code.*
 
